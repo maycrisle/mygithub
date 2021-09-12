@@ -1,3 +1,3 @@
 # mygithub
-run.sh 
+./run.sh 
 #run many commands by sh
